@@ -1,6 +1,7 @@
 ## About Me
 
-My name is Shichen Li and I am a second-year graduate student at [Soochew NLP Lab](http://nlp.suda.edu.cn/) led by [Goudong Zhou](http://nlp.suda.edu.cn/~gdzhou/index.html). I am fortunate to be supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html) and expect to graduate in 2024. Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University of Technology in 2021. My main research interests focus on cross-domain sentiment analysis and aspect-based sentiment analysis.
+My name is Shichen Li and I am a second-year graduate student at [Soochew NLP Lab](http://nlp.suda.edu.cn/) led by [Goudong Zhou](http://nlp.suda.edu.cn/~gdzhou/index.html).
+I am fortunate to be supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html) and expect to graduate in 2024. Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University of Technology in 2021. My main research interests focus on cross-domain sentiment analysis and aspect-based sentiment analysis.
 
 ## Experience
 
@@ -11,11 +12,11 @@ My name is Shichen Li and I am a second-year graduate student at [Soochew NLP La
 
 ## Publications
 
-**Shichen Li**,***. ****. **ACL 2023** （Under Review)
+**Shichen Li**,*. *. **_ACL 2023_.** （Under Review)
 
-**Shichen Li**, Zhongqing Wang, Xiaotong Jiang, and Guodong Zhou. [Cross-Domain Sentiment Classification using Semantic Representation](https://aclanthology.org/2022.findings-emnlp.22). **EMNLP 2022.**
+**Shichen Li**, Zhongqing Wang, Xiaotong Jiang, and Guodong Zhou. [Cross-Domain Sentiment Classification using Semantic Representation](https://aclanthology.org/2022.findings-emnlp.22). **_EMNLP 2022_.**
 
-Maohan Liang, Ryan Wen Liu, **Shichen Li**, Zhe Xiao, Xin Liu, and Feng Lu. 2020 [An unsupervised learning method with convolutional auto-encoder for vessel trajectory similarity computation](https://www.sciencedirect.com/science/article/abs/pii/S0029801821002389). **Ocean Engineering 2020.**
+Maohan Liang, Ryan Wen Liu, **Shichen Li**, Zhe Xiao, Xin Liu, and Feng Lu. 2020 [An unsupervised learning method with convolutional auto-encoder for vessel trajectory similarity computation](https://www.sciencedirect.com/science/article/abs/pii/S0029801821002389). **_Ocean Engineering 2020_.**
 ## Selected Awards
 
 - **Excellent Graduate Students**, Wuhan University of Technology, 2021.
