@@ -1,8 +1,6 @@
 ## About Me
 
-My name is Shichen Li and I am a second-year graduate student at [Soochow NLP Lab](http://nlp.suda.edu.cn/) led by [Goudong Zhou](http://nlp.suda.edu.cn/~gdzhou/index.html).
-
-I am fortunate to be supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html) and expect to graduate in 2024. Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University of Technology in 2021. My main research interests focus on cross-domain sentiment analysis and aspect-based sentiment analysis.
+`My name is Shichen Li and I am a second-year graduate student at [Soochow NLP Lab](http://nlp.suda.edu.cn/) led by [Goudong Zhou](http://nlp.suda.edu.cn/~gdzhou/index.html).I am fortunate to be supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html) and expect to graduate in 2024. Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University of Technology in 2021. My main research interests focus on cross-domain sentiment analysis and aspect-based sentiment analysis. `
 
 ## Experience
 
@@ -25,6 +23,6 @@ Maohan Liang, Ryan Wen Liu, **Shichen Li**, Zhe Xiao, Xin Liu, and Feng Lu. 2020
 
 ## Miscellaneous
 
-I’m engaged (but an amateur) in Photography with a camera:camera: from FujiFilm! I enjoy taking street photographs, which is a great way to capture candid moments and tell stories through images. I also like to play badminton(but an amateur too:satisfied:)!
+I’m engaged (but an amateur) in Photography with a camera from FujiFilm! I enjoy taking street photographs, which is a great way to capture candid moments and tell stories through images. I also like to play badminton(but an amateur too)!
 
 
