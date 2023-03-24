@@ -24,6 +24,6 @@ Maohan Liang, Ryan Wen Liu, **Shichen Li**, Zhe Xiao, Xin Liu, and Feng Lu. 2020
 
 ## Miscellaneous
 
-I'm also engaged (but an amateur) in Photography and have a camera from FujiFilm! I enjoy taking street photographs. Street photography is a great way to capture candid moments and tell stories through images.
+I’m engaged (but an amateur) in Photography with a camera from FujiFilm! I enjoy taking street photographs, which is a great way to capture candid moments and tell stories through images. I also like to play badminton(but an amateur too)!:satisfied:
 
 
