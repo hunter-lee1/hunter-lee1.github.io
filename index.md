@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Shichen Li(李诗晨) and I am a second-year graduate student at [Soochow NLP Lab](http://nlp.suda.edu.cn/) led by [Goudong Zhou](http://nlp.suda.edu.cn/~gdzhou/index.html). I am fortunate to be supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html) and expect to graduate in 2024. Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University of Technology in 2021. My main research interests focus on cross-domain sentiment analysis and aspect-based sentiment analysis. 
+My name is Shichen Li(李诗晨) and I am a second-year graduate student at [Soochow NLP Lab](http://nlp.suda.edu.cn/) led by [Guodong Zhou](http://nlp.suda.edu.cn/~gdzhou/index.html). I am fortunate to be supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html) and expect to graduate in 2024. Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University of Technology in 2021. My main research interests focus on cross-domain sentiment analysis and aspect-based sentiment analysis. 
 
 ## Experience
 
