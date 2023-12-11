@@ -1,6 +1,6 @@
-## About Me
+![image](https://github.com/hunter-lee1/hunter-lee1.github.io/assets/35529532/e4567ea6-274e-493e-ab7e-9a2acfb35230)## About Me
 
-My name is Shichen Li(李诗晨) and I am a second-year graduate student at [Soochow NLP Lab](http://nlp.suda.edu.cn/) led by [Guodong Zhou](http://nlp.suda.edu.cn/~gdzhou/index.html). I am fortunate to be supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html) and expect to graduate in 2024. Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University of Technology in 2021. My main research interests focus on cross-domain sentiment analysis and aspect-based sentiment analysis. 
+My name is Shichen Li(李诗晨) and I am a final-year graduate student at [Soochow NLP Lab](http://nlp.suda.edu.cn/) led by [Guodong Zhou](http://nlp.suda.edu.cn/~gdzhou/index.html). I am fortunate to be supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html) and expect to graduate in 2024. Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University of Technology in 2021. I did some research about cross-domain sentiment analysis and aspect-based sentiment analysis. Currently, my main research interests focus on LLM efficient decoding (e.g., speculative decoding) and reasoning tasks (e.g., math problems).
 
 ## Experience
 
@@ -12,7 +12,7 @@ My name is Shichen Li(李诗晨) and I am a second-year graduate student at [Soo
 
 ## Publications
 
-**Shichen Li**,*. *. **_EMNLP 2023_.** 
+**Shichen Li**,*. *. **_COLING 2023_.** 
 
 **Shichen Li**, Zhongqing Wang, Xiaotong Jiang, and Guodong Zhou. [Cross-Domain Sentiment Classification using Semantic Representation](https://aclanthology.org/2022.findings-emnlp.22). **_EMNLP 2022_.**
 
