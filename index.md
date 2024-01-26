@@ -12,7 +12,7 @@ My name is Shichen Li(李诗晨) and I am a final-year graduate student at [Sooc
 
 ## Publications
 
-**Shichen Li**,*. *. **_COLING 2023_.** 
+**Shichen Li**,*. *. **_COLING 2024_.** 
 
 **Shichen Li**, Zhongqing Wang, Xiaotong Jiang, and Guodong Zhou. [Cross-Domain Sentiment Classification using Semantic Representation](https://aclanthology.org/2022.findings-emnlp.22). **_EMNLP 2022_.**
 
