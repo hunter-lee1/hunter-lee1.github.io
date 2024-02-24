@@ -6,7 +6,6 @@ My name is Shichen Li(李诗晨) and I am a final-year graduate student at [Sooc
 
 - 2021 - Now: Graduate student at [Soochow NLP Lab](http://nlp.suda.edu.cn/) supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html).
 - 2023 - Now: Research intern at [STAT NLP Lab](https://statnlp-research.github.io/) in SUTD, supervised by [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei).
-- 2019 - 2020: Team leader of an innovation research fund project supported by WHUT.
 - 2018 - 2021: Research Assistant in [MIPC](http://mipc.whut.edu.cn/index.html) advised by [Wen Liu](https://scholar.google.com.tw/citations?user=jgb3Ey4AAAAJ&hl=zh-CN&oi=ao).
 - 2017 - 2021: Undergraduate student at the School of Computer Science, WHUT.
 
