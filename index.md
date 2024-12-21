@@ -15,7 +15,7 @@ My name is Shichen Li(李诗晨) and I am a first-year Ph.D student at [Soochow 
 
 Yanzhi Xu, Yueying Hua, **Shichen Li**, Zhongqing Wang. [Exploring Chain-of-Thought for Multi-modal Metaphor Detection](https://aclanthology.org/2024.acl-long.6/). **_ACL 2024_.**
 
-Tianduo Wang, **Shichen Li**, Wei Lu. Self-Training with Direct Preference Optimization Improves Chain-of-Thought Reasoning(https://aclanthology.org/2024.acl-long.643/). **_ACL 2024_.**
+Tianduo Wang, **Shichen Li**, Wei Lu. [Self-Training with Direct Preference Optimization Improves Chain-of-Thought Reasoning](https://aclanthology.org/2024.acl-long.643/). **_ACL 2024_.**
 
 **Shichen Li** Zhongqing Wang, Yanzhi Xu, Guodong Zhou. [Structure-aware Generation Model for Cross-Domain Aspect-based Sentiment Classification](https://aclanthology.org/2024.lrec-main.1335/). **_COLING 2024_.** 
 
