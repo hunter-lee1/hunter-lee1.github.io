@@ -4,8 +4,8 @@ My name is Shichen Li(李诗晨) and I am a first-year Ph.D student at [Soochow 
 
 ## Experience
 - 2024 - Now: Ph.D student at [Soochow NLP Lab](http://nlp.suda.edu.cn/) supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html) and [Peifeng Li](https://web.suda.edu.cn/pfli/).
-- 2021 - 2024: Graduate student at [Soochow NLP Lab](http://nlp.suda.edu.cn/) supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html).
 - 2023 - 2024: Research intern at [STAT NLP Lab](https://statnlp-research.github.io/) in SUTD, supervised by [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei).
+- 2021 - 2024: Graduate student at [Soochow NLP Lab](http://nlp.suda.edu.cn/) supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html).
 - 2018 - 2021: Research Assistant in [MIPC](http://mipc.whut.edu.cn/index.html) advised by [Wen Liu](https://scholar.google.com.tw/citations?user=jgb3Ey4AAAAJ&hl=zh-CN&oi=ao).
 - 2017 - 2021: Undergraduate student at the School of Computer Science, WHUT.
 
