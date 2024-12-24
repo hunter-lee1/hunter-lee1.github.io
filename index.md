@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Shichen Li(李诗晨), a first-year Ph.D student at [Soochow NLP Lab](http://nlp.suda.edu.cn/) led by [Guodong Zhou](http://nlp.suda.edu.cn/~gdzhou/index.html), fortunately supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html) and [Peifeng Li](https://web.suda.edu.cn/pfli/). I am also deeply grateful for the valuable guidance and support from Prof. [Yue Zhang](https://frcchang.github.io/) and Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei). My past research primarily focused on fine-grained social media analysis, and now my goal has expanded to understanding human communication in social contexts, with the aim of aligning language models that better support both human-to-human and human-to-computer interactions.
+My name is Shichen Li(李诗晨), a first-year Ph.D student at [Soochow NLP Lab](http://nlp.suda.edu.cn/) led by [Guodong Zhou](http://nlp.suda.edu.cn/~gdzhou/index.html), fortunately supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html) and [Peifeng Li](https://web.suda.edu.cn/pfli/). I am also deeply grateful for the valuable guidance and support from Prof. [Yue Zhang](https://frcchang.github.io/) and Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei). My past research primarily focused on fine-grained social media analysis, and now my goal has expanded to understanding human communication in social contexts, with the aim of aligning language models that better support for social good.
 
 ## Experience
 - 2024 - Now: Ph.D student at [Soochow NLP Lab](http://nlp.suda.edu.cn/) supervised by [Zhongqing Wang](https://wangzqsuda.github.io/index.html) and [Peifeng Li](https://web.suda.edu.cn/pfli/).
@@ -17,7 +17,7 @@ Yanzhi Xu, Yueying Hua, **Shichen Li**, Zhongqing Wang. [Exploring Chain-of-Thou
 
 Tianduo Wang, **Shichen Li**, Wei Lu. [Self-Training with Direct Preference Optimization Improves Chain-of-Thought Reasoning](https://aclanthology.org/2024.acl-long.643/). **_ACL 2024_.**
 
-**Shichen Li** Zhongqing Wang, Yanzhi Xu, Guodong Zhou. [Structure-aware Generation Model for Cross-Domain Aspect-based Sentiment Classification](https://aclanthology.org/2024.lrec-main.1335/). **_COLING 2024_.** 
+**Shichen Li**, Zhongqing Wang, Yanzhi Xu, Guodong Zhou. [Structure-aware Generation Model for Cross-Domain Aspect-based Sentiment Classification](https://aclanthology.org/2024.lrec-main.1335/). **_COLING 2024_.** 
 
 **Shichen Li**, Zhongqing Wang, Xiaotong Jiang, and Guodong Zhou. [Cross-Domain Sentiment Classification using Semantic Representation](https://aclanthology.org/2022.findings-emnlp.22). **_EMNLP 2022_.**
 
