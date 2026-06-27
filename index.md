@@ -12,17 +12,17 @@ My name is Shichen Li(李诗晨), a first-year Ph.D student at [Soochow NLP Lab]
 
 ## Publications
 
-**Shichen Li**, Zhouyang Wang, Zhongqing Wang, and Peifeng Li. [Uncovering Sentiment Analysis Circuit in Large Language Model](https://aclanthology.org/2026.acl-long.928/). **_ACL 2026_.**
+**Shichen Li**, Zhouyang Wang, Zhongqing Wang, and Peifeng Li. [Uncovering Sentiment Analysis Circuit in Large Language Model](https://aclanthology.org/2026.acl-long.928/). **_ACL 2026 (Oral)_.**
 
 **Shichen Li**, Jiawei Zhang, Zhongqing Wang, and Peifeng Li. [Aligning Black-Box LLMs for Aspect Sentiment Quad Prediction](https://aclanthology.org/2025.findings-emnlp.53/). **_EMNLP 2025_.**
 
 **Shichen Li**, Zhongqing Wang, Zheyu Zhao, Yue Zhang, and Peifeng Li. [Exploring Model Editing for LLM-based Aspect-Based Sentiment Classification](https://ojs.aaai.org/index.php/AAAI/article/view/34625). **_AAAI 2025 (Oral)_.**
 
-**Shichen Li**, Zhongqing Wang, Yanzhi Xu, and Guodong Zhou. [Structure-aware Generation Model for Cross-Domain Aspect-based Sentiment Classification](https://aclanthology.org/2024.lrec-main.1335/). **_LREC-COLING 2024_.** 
+**Shichen Li**, Zhongqing Wang, Yanzhi Xu, and Guodong Zhou. [Structure-aware Generation Model for Cross-Domain Aspect-based Sentiment Classification](https://aclanthology.org/2024.lrec-main.1335/). **_COLING 2024_.** 
 
 **Shichen Li**, Zhongqing Wang, Xiaotong Jiang, and Guodong Zhou. [Cross-Domain Sentiment Classification using Semantic Representation](https://aclanthology.org/2022.findings-emnlp.22). **_EMNLP 2022_.**
 
-Xiaobin Shen, Zhongqing Wang, **Shichen Li**, Chu-Ren Huang, and Guodong Zhou. [New Compendium of a Myriad of Plants: A New Dataset Describing Ancient Chinese Plants](https://aclanthology.org/2026.findings-acl.73/). **_Findings of ACL 2026_.**
+Xiaobin Shen, Zhongqing Wang, **Shichen Li**, Chu-Ren Huang, and Guodong Zhou. [New Compendium of a Myriad of Plants: A New Dataset Describing Ancient Chinese Plants](https://aclanthology.org/2026.findings-acl.73/). **_ACL 2026_.**
 
 Zhen Lin, Qiujie Xie, Minjun Zhu, **Shichen Li**, QiYao Sun, Enhao Gu, Yiran Ding, Ke Sun, Fang Guo, Panzhong Lu, Zhiyuan Ning, Yixuan Weng, and Yue Zhang. [AutoFigure-Edit: Generating Editable Scientific Illustrations via Reference-Guided Styling](https://aclanthology.org/2026.acl-demo.6/). **_ACL 2026 Demo_.**
 
